@@ -1,18 +1,18 @@
 <p align="center">
-  <img src= "https://komarev.com/ghpvc/?username=kashan-1&style=for-the-badge">
+  <img src= "https://komarev.com/ghpvc/?username=kashan-01&style=for-the-badge">
 </p>
 <p align="center">
 </p> 
 
 ### █▓▒­░⡷⠂HI ΓHΞЯΞ⠐⢾░▒▓█ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-![image](https://github.com/kashan-1/kashan-1/assets/101004149/3414586d-3e79-48c7-b1c9-35fbf9c08386)
+![image](https://github.com/kashan-01/kashan-01/assets/101004149/3414586d-3e79-48c7-b1c9-35fbf9c08386)
 
 
 <p align="center">
 
 <!---
-kashan-1/kashan-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kashan-01/kashan-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -27,7 +27,6 @@ You can click the Preview link to take a look at your changes.
 - Worked as CPM analyst at UPS
 
 📫 How to reach me: 
->[![linkedin](https://user-images.githubusercontent.com/75361545/205706651-63e48c3d-3a9e-4a0a-902f-8d05995981eb.png)](https://www.linkedin.com/in/kashan-ali-29a78b184)[![icons8-mail-48](https://user-images.githubusercontent.com/75361545/205708010-1b0de459-a10c-4d44-b649-5005f6038763.png)](mailto:kashan1dev@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 <!--  Tools sections  -->
 :stars: Languages and tools:
@@ -77,8 +76,8 @@ You can click the Preview link to take a look at your changes.
 <!--  Stats sections  -->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kashan-1)](https://git.io/streak-stats)
-[![Kashan Ali](https://github-readme-stats-sigma-five.vercel.app/api?username=kashan-1&count_private=true&show_icons=true&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/kashan-1/kashan-1)) [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kashan-1&count_private=true&show_icons=true&theme=dark&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/kashan-1/kashan-1))
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kashan-01)](https://git.io/streak-stats)
+[![Kashan Ali](https://github-readme-stats-sigma-five.vercel.app/api?username=kashan-01&count_private=true&show_icons=true&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/kashan-01/kashan-01)) [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kashan-01&count_private=true&show_icons=true&theme=dark&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/kashan-01/kashan-01))
 
 
 </div>
@@ -88,7 +87,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-![dist/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/kashan-1/kashan-1/output/github-contribution-grid-snake.svg)
+![dist/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/kashan-01/kashan-01/output/github-contribution-grid-snake.svg)
 
 
 <!--  Waka- Weekly Development Breakdown  -->
